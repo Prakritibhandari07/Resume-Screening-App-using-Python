@@ -1,4 +1,5 @@
 # Resume-Screening-App-using-Python
+
 A simple web app built with **Streamlit** that classifies resumes into job categories using a pre-trained machine learning model (TF-IDF + classifier). Upload a resume in `.txt` or `.pdf` format, and the app predicts the most relevant job category (e.g., HR, Engineering, Finance, etc.).
 
 🔗 **Live Demo:** [https://resume-screening-app-using-python-cbzasevgovm83jpro4s5fj.streamlit.app/]
